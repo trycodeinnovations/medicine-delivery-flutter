@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "406015064671",
+    "project_id": "medquick-c90ac",
+    "storage_bucket": "medquick-c90ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:406015064671:android:15d35ad6b731f8bd3779ea",
+        "android_client_info": {
+          "package_name": "com.example.medquick"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfBEJUIm1LWblMPBtFyN2hyLYlOfP4pNQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
